@@ -1,0 +1,25 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+.env.*
+
+# IDE settings
+.idea/
+.vscode/
+
+# Project runtime outputs
+Alarm/
+Captured/
+Detected Photos/
+Test Videos/
+*.pt
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.avi
