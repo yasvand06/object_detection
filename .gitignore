@@ -13,10 +13,8 @@ venv/
 .vscode/
 
 # Project runtime outputs
-Alarm/
 Captured/
 Detected Photos/
-Test Videos/
 *.pt
 *.jpg
 *.jpeg
