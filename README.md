@@ -64,7 +64,19 @@ python main.py
 
 This project is for learning and personal use.
 
-Praveen M contributed to the following parts of this project:
+## Team Members & Contributions
 
-- Integrated the YOLOv8-based person detection module.
-- Implemented image capture and storage functionality.
+- **Praveen M**
+  - YOLOv8 integration
+  - Object detection testing and debugging
+  - Documentation and project integration
+
+- **Yasvand A K**
+  - Motion detection logic
+  - Region of Interest (ROI) implementation
+  - Image capture functionality
+
+- **Vishnu Kumar S**
+  - Email alert system
+  - Alarm integration
+  - Project testing and deployment
