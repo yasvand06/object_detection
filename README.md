@@ -63,3 +63,8 @@ python main.py
 ## License
 
 This project is for learning and personal use.
+
+Praveen M contributed to the following parts of this project:
+
+- Integrated the YOLOv8-based person detection module.
+- Implemented image capture and storage functionality.
